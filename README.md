@@ -112,4 +112,4 @@ This means you can use, modify, and distribute this software freely, but if you 
 
 ## Disclaimer
 
-This project is not affiliated with, endorsed by, or sponsored by [Obsidian](https://obsidian.md/) or Dynalist Inc. "Obsidian" is a trademark of Dynalist Inc. This is an independent, community-driven project that builds infrastructure around the Obsidian application.
+This project is not affiliated with, endorsed by, or sponsored by [Obsidian](https://obsidian.md/) or Obsi Holdings Ltd. "Obsidian" is a trademark of Obsi Holdings Ltd. This is an independent, community-driven project that builds infrastructure around the Obsidian application.
