@@ -1,59 +1,62 @@
 /*
  * Clasty Brand Theme
- * Obsidian black + magma orange — pyroclastic volcanic aesthetic
+ * Stone dark + deep magma red-orange
  *
  * Palette:
- *   Void:         #0f0f17
- *   Obsidian:     #1a1a2e
- *   Magma Orange: #e85d26
- *   Amber Glow:   #f59e0b
- *   Ash White:    #e8e6e3
+ *   Void:         #0c0c0c
+ *   Stone Dark:   #171717
+ *   Stone Mid:    #262626
+ *   Magma:        #dc4a1a
+ *   Magma Deep:   #b83a10
+ *   Ember:        #ef6c35
+ *   Ash White:    #e7e5e4
  */
 
 /* ============================================
    DARK MODE (primary)
-   Vercel / Linear / Warp vibe
+   True dark stone — no blue tint
    ============================================ */
 :root {
-	/* Gray scale — shifted from cool blue-gray to warm obsidian */
-	--sl-color-white: #e8e6e3;
-	--sl-color-gray-1: #d4d1cc;
-	--sl-color-gray-2: #a8a49e;
-	--sl-color-gray-3: #6b6862;
-	--sl-color-gray-4: #3d3a36;
-	--sl-color-gray-5: #252330;
-	--sl-color-gray-6: #1a1a2e;
-	--sl-color-black: #0f0f17;
+	/* Gray scale — neutral stone, zero blue */
+	--sl-color-white: #e7e5e4;
+	--sl-color-gray-1: #d6d3d1;
+	--sl-color-gray-2: #a8a29e;
+	--sl-color-gray-3: #78716c;
+	--sl-color-gray-4: #44403c;
+	--sl-color-gray-5: #262626;
+	--sl-color-gray-6: #171717;
+	--sl-color-black: #0c0c0c;
 
-	/* Accent — magma orange */
-	--sl-color-accent-low: #3d1c0a;
-	--sl-color-accent: #e85d26;
-	--sl-color-accent-high: #f5a173;
+	/* Accent — deep magma red-orange */
+	--sl-color-accent-low: #3b1508;
+	--sl-color-accent: #dc4a1a;
+	--sl-color-accent-high: #ef6c35;
 
 	/* Semantic mappings */
-	--sl-color-text: var(--sl-color-gray-2);
+	--sl-color-text: var(--sl-color-gray-1);
 	--sl-color-text-accent: var(--sl-color-accent-high);
+	--sl-color-text-invert: var(--sl-color-black);
 	--sl-color-bg: var(--sl-color-black);
-	--sl-color-bg-nav: #141422;
-	--sl-color-bg-sidebar: #141422;
+	--sl-color-bg-nav: var(--sl-color-gray-6);
+	--sl-color-bg-sidebar: var(--sl-color-gray-6);
 	--sl-color-bg-inline-code: var(--sl-color-gray-5);
 	--sl-color-bg-accent: var(--sl-color-accent);
 	--sl-color-hairline-light: var(--sl-color-gray-5);
-	--sl-color-hairline: #1e1e32;
+	--sl-color-hairline: var(--sl-color-gray-5);
 	--sl-color-hairline-shade: var(--sl-color-black);
-	--sl-color-backdrop-overlay: hsla(240, 20%, 6%, 0.75);
+	--sl-color-backdrop-overlay: hsla(0, 0%, 4%, 0.8);
 
 	/* Aside/callout hues — warm shift */
-	--sl-hue-orange: 24;
+	--sl-hue-orange: 18;
 	--sl-hue-green: 142;
-	--sl-hue-blue: 217;
+	--sl-hue-blue: 210;
 	--sl-hue-purple: 270;
-	--sl-hue-red: 0;
+	--sl-hue-red: 4;
 }
 
 /* ============================================
    LIGHT MODE
-   Warm volcanic — not just inverted dark
+   Warm stone — cohesive with dark
    ============================================ */
 :root[data-theme='light'],
 [data-theme='light'] ::backdrop {
@@ -68,9 +71,9 @@
 	--sl-color-gray-7: #fafaf9;
 	--sl-color-black: #ffffff;
 
-	/* Accent — magma orange (slightly deeper for light bg contrast) */
-	--sl-color-accent-low: #fff1eb;
-	--sl-color-accent: #c4470e;
+	/* Accent — deeper magma for light bg contrast */
+	--sl-color-accent-low: #fef2ee;
+	--sl-color-accent: #b83a10;
 	--sl-color-accent-high: #7c2d12;
 
 	/* Semantic mappings */
@@ -86,25 +89,55 @@
 }
 
 /* ============================================
-   ADDITIONAL REFINEMENTS
+   GLOBAL — ensure consistency across all pages
    ============================================ */
 
-/* Slightly warmer link hover */
-:root a:hover {
+/* Links everywhere */
+a:where(:not([class])):hover {
 	color: var(--sl-color-accent);
 }
 
-/* Hero section — magma gradient accent */
-.hero {
-	--sl-color-text-accent: var(--sl-color-accent);
+/* Hero CTA buttons — use accent */
+.action.primary {
+	background: var(--sl-color-accent) !important;
+	border-color: var(--sl-color-accent) !important;
+	color: white !important;
+}
+.action.primary:hover {
+	background: var(--sl-color-accent-high) !important;
+	border-color: var(--sl-color-accent-high) !important;
 }
 
-/* Card borders — subtle magma glow on hover */
+/* Cards — magma border on hover */
+.sl-link-card:hover,
 .card:hover {
-	border-color: color-mix(in srgb, var(--sl-color-accent) 40%, transparent);
+	border-color: var(--sl-color-accent);
 }
 
-/* Sidebar active item — magma accent */
+/* Search highlight */
+[data-pagefind-ui] mark {
+	background: var(--sl-color-accent-low);
+	color: var(--sl-color-accent);
+}
+
+/* Sidebar active state */
+[aria-current='page'],
 [data-current='true'] {
-	--sl-color-text-accent: var(--sl-color-accent);
+	color: var(--sl-color-accent) !important;
+	border-color: var(--sl-color-accent) !important;
+}
+
+/* Table of contents active heading */
+starlight-toc a[aria-current='true'] {
+	color: var(--sl-color-accent);
+}
+
+/* Badge/tag styling */
+.sl-badge {
+	border-color: var(--sl-color-accent);
+}
+
+/* Mobile menu toggle */
+starlight-menu-button button[aria-expanded='true'] {
+	color: var(--sl-color-accent);
 }
