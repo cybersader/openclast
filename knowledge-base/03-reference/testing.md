@@ -169,6 +169,41 @@ jobs:
 
 ---
 
+## Multi-Instance Sync Testing
+
+For testing CRDT sync with concurrent edits, we run multiple Obsidian instances sharing the same filesystem.
+
+**Compose file:** `docker-compose.test.yml`
+
+```bash
+# Start multi-instance test environment
+docker-compose -f docker-compose.test.yml up -d
+
+# Alice: https://localhost:3101
+# Bob:   https://localhost:3201
+```
+
+**Three approaches (layered by complexity):**
+
+| Approach | What It Tests | Infrastructure |
+|----------|--------------|----------------|
+| A: Docker-Only | Our CRDT sync, presence, merge | Two containers + Yjs server |
+| B: Docker + Tailscale | Above + Obsidian Sync device identity | Add Tailscale sidecars + unique machine IDs |
+| C: Separate Hosts | True multi-device over WireGuard mesh | Multiple machines on tailnet |
+
+**What makes instances "different":**
+- Plugin client ID: auto-generated UUID v4 per install (`identity.ts`)
+- Sync daemon USER_ID: set via environment variable per container
+- WebSocket connections: separate per daemon process
+- For Obsidian Sync: unique `/var/lib/dbus/machine-id` + Tailscale identity
+
+**Shared vault:** `vaults/shared-test/` — bind-mounted into both containers.
+**Per-instance config:** Separate Docker volumes for `/config` (isolates `.obsidian/`).
+
+See [[2026-03-28-multi-instance-sync-testing]] for full analysis and Tailscale integration details.
+
+---
+
 ## Known Limitations
 
 1. **No headless Obsidian** - Can't automate plugin UI tests
@@ -179,6 +214,7 @@ jobs:
 
 ## Related
 
-- [Architecture](architecture.md)
-- [Security](security.md)
-- [Plugin Project](../projects/crdt-sync-plugin.md)
+- [[architecture]]
+- [[security]]
+- [[crdt-sync-plugin]]
+- [[2026-03-28-multi-instance-sync-testing]]

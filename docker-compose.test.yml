@@ -1,0 +1,109 @@
+# Multi-instance sync testing environment
+# Usage: docker-compose -f docker-compose.test.yml up -d
+#
+# Alice's Obsidian: https://localhost:3101
+# Bob's Obsidian:   https://localhost:3201
+#
+# Both instances share ./vaults/shared-test/ but have separate .obsidian/ configs.
+
+services:
+  # Yjs WebSocket sync server (shared hub)
+  yjs-server:
+    image: node:20-alpine
+    working_dir: /app
+    command: npx y-websocket
+    ports:
+      - "1234:1234"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=1234
+      - PERSISTENCE=./persistence
+    volumes:
+      - yjs-data:/app/persistence
+    networks:
+      - sync-test
+
+  # === Alice's Instance ===
+
+  obsidian-alice:
+    image: linuxserver/obsidian:latest
+    container_name: obsidian-alice
+    hostname: obsidian-alice
+    ports:
+      - "3100:3000"   # HTTP
+      - "3101:3001"   # HTTPS
+    shm_size: "1gb"
+    security_opt:
+      - seccomp:unconfined
+    environment:
+      - PUID=${PUID:-1000}
+      - PGID=${PGID:-1000}
+      - TZ=${TZ:-America/New_York}
+    volumes:
+      - config-alice:/config                              # Per-instance Obsidian config
+      - ./vaults/shared-test:/config/vaults/shared        # SHARED vault
+    networks:
+      - sync-test
+
+  sync-daemon-alice:
+    build:
+      context: ./sync-daemon
+      dockerfile: Dockerfile.dev
+    container_name: sync-daemon-alice
+    environment:
+      - SYNC_SERVER_URL=ws://yjs-server:1234
+      - VAULT_PATH=/vaults
+      - USER_ID=alice
+    volumes:
+      - ./vaults/shared-test:/vaults/shared
+    networks:
+      - sync-test
+    depends_on:
+      - yjs-server
+
+  # === Bob's Instance ===
+
+  obsidian-bob:
+    image: linuxserver/obsidian:latest
+    container_name: obsidian-bob
+    hostname: obsidian-bob
+    ports:
+      - "3200:3000"   # HTTP
+      - "3201:3001"   # HTTPS
+    shm_size: "1gb"
+    security_opt:
+      - seccomp:unconfined
+    environment:
+      - PUID=${PUID:-1000}
+      - PGID=${PGID:-1000}
+      - TZ=${TZ:-America/New_York}
+    volumes:
+      - config-bob:/config                                # Per-instance Obsidian config
+      - ./vaults/shared-test:/config/vaults/shared        # SHARED vault
+    networks:
+      - sync-test
+
+  sync-daemon-bob:
+    build:
+      context: ./sync-daemon
+      dockerfile: Dockerfile.dev
+    container_name: sync-daemon-bob
+    environment:
+      - SYNC_SERVER_URL=ws://yjs-server:1234
+      - VAULT_PATH=/vaults
+      - USER_ID=bob
+    volumes:
+      - ./vaults/shared-test:/vaults/shared
+    networks:
+      - sync-test
+    depends_on:
+      - yjs-server
+
+networks:
+  sync-test:
+    driver: bridge
+
+volumes:
+  yjs-data:
+  config-alice:
+  config-bob:

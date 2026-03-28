@@ -42,6 +42,7 @@ HOT                                                                        COLD
 - `mount-orchestration.md` — Mount orchestrator service design (not started)
 - `ideas.md` — Active ideas and future possibilities
 - `2026-02-14-kasm-mount-orchestration-decisions.md` — Kasm integration patterns, compound rules analysis, Storage Mappings vs custom orchestrator
+- `2026-03-28-multi-instance-sync-testing.md` — Multi-instance testing methods (Docker, Tailscale, shared filesystem)
 
 ### 02-learnings/ (Distilled)
 - `MOUNTING_PERMISSION_BOUNDARY_PROBLEM.md` — Core tension: vault-level RBAC vs composite mounts

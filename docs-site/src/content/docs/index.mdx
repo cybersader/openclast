@@ -1,0 +1,34 @@
+---
+title: Obsidian in Enterprise
+description: Browser-based Obsidian with CRDT sync and enterprise access control.
+template: splash
+hero:
+  tagline: Run Obsidian in the browser with real-time collaboration and role-based vault access — no installs, no data on laptops.
+  actions:
+    - text: Get Started
+      link: /obsidian-in-enterprise/guides/introduction/
+      icon: right-arrow
+      variant: primary
+    - text: View on GitHub
+      link: https://github.com/cybersader/obsidian-in-enterprise
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Three-Layer Architecture
+
+<CardGrid stagger>
+  <Card title="VNC Gateway" icon="laptop">
+    Stream Obsidian desktop to the browser via Kasm Workspaces. Full desktop experience, zero installs.
+  </Card>
+  <Card title="CRDT Sync" icon="random">
+    Conflict-free real-time collaboration powered by Yjs. Multiple users edit the same vault simultaneously.
+  </Card>
+  <Card title="Mount Orchestration" icon="setting">
+    Role-based access control at the folder level. Each user sees only what they're authorized to access, assembled as one seamless vault.
+  </Card>
+  <Card title="Enterprise Ready" icon="approve-check">
+    SSO integration, audit logging, DLP controls, and container hardening for regulated environments.
+  </Card>
+</CardGrid>

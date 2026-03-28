@@ -71,5 +71,10 @@ See `knowledge-base/03-reference/decision-log.md` for full rationale.
 
 ## Git Rules
 
-- NEVER include AI attribution in commits (no Co-Authored-By)
+- **NEVER** include AI attribution in commits — no `Co-Authored-By: Claude`, no `Co-Authored-By: Anthropic`, no AI/LLM co-author lines of any kind
+- **NEVER** add Claude or any AI as a contributor, co-contributor, or author anywhere — not in commits, not in package.json, not in README, not in any file
 - Commit as the human developer only
+
+## External Resources
+
+- [Obsidian Skills for LLMs](https://github.com/kepano/obsidian-skills) — Kepano's Obsidian skills collection for AI agents
