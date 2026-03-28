@@ -11,6 +11,7 @@ Organizations want to use Obsidian for knowledge management but face blockers:
 - **No real-time collaboration** — Obsidian Sync doesn't support concurrent multi-user editing
 - **No access control** — Vaults are all-or-nothing; you can't scope folders by role or department
 - **Data sovereignty** — Sensitive knowledge shouldn't live on employee laptops
+- **Unclear security model** — Obsidian's logic is extensible via community plugins and user scripts (Templater, Dataview, QuickAdd, custom JS). There's no established way for IT to audit, approve, or restrict what runs inside a vault. In an enterprise context, an untrusted plugin has full filesystem access and can execute arbitrary code — and there's no sandbox, no plugin signing, and no permission model to prevent it.
 
 ## The Solution
 
