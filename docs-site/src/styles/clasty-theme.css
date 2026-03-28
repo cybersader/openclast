@@ -17,14 +17,14 @@
    True dark stone — no blue tint
    ============================================ */
 :root {
-	/* Gray scale — neutral stone, zero blue */
-	--sl-color-white: #e7e5e4;
-	--sl-color-gray-1: #d6d3d1;
-	--sl-color-gray-2: #a8a29e;
-	--sl-color-gray-3: #78716c;
-	--sl-color-gray-4: #44403c;
-	--sl-color-gray-5: #262626;
-	--sl-color-gray-6: #171717;
+	/* Gray scale — neutral stone, zero blue, high contrast text */
+	--sl-color-white: #f5f5f4;
+	--sl-color-gray-1: #e7e5e4;
+	--sl-color-gray-2: #c8c5c0;
+	--sl-color-gray-3: #8a8680;
+	--sl-color-gray-4: #57534e;
+	--sl-color-gray-5: #292524;
+	--sl-color-gray-6: #1c1917;
 	--sl-color-black: #0c0c0c;
 
 	/* Accent — deep magma red-orange */
