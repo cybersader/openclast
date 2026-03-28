@@ -3,6 +3,9 @@
  *
  * Watches the vault filesystem and syncs changes via Yjs CRDT.
  * Runs alongside Obsidian in the same container.
+ *
+ * SPDX-License-Identifier: AGPL-3.0-or-later
+ * Copyright (c) 2026 cybersader
  */
 
 import express from 'express';

@@ -1,3 +1,7 @@
+/**
+ * SPDX-License-Identifier: AGPL-3.0-or-later
+ * Copyright (c) 2026 cybersader
+ */
 import { App, Notice, Plugin, PluginSettingTab, Setting, TFile, TFolder, MarkdownView } from 'obsidian';
 import * as Y from 'yjs';
 import { CrdtStateManager } from './crdt-state-manager';

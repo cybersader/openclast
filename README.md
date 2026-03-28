@@ -102,4 +102,10 @@ cd docs-site && bun install && bun run dev
 
 ## License
 
-MIT
+This project is licensed under the [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0).
+
+This means you can use, modify, and distribute this software freely, but if you run a modified version as a network service, you must make your source code available to users of that service.
+
+**Commercial licensing** is available for organizations that need different terms. Contact the maintainer for details.
+
+**Contributing** requires signing our [Contributor License Agreement](CLA.md), which allows the project to be offered under dual licensing.
