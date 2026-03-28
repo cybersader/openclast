@@ -7,27 +7,27 @@ import wikiLinkPlugin from '@flowershow/remark-wiki-link';
 // import starlightThemeObsidian from 'starlight-theme-obsidian';
 
 export default defineConfig({
-  site: 'https://cybersader.github.io/obsidian-in-enterprise',
-  base: '/obsidian-in-enterprise',
+  site: 'https://cybersader.github.io/clasty',
+  base: '/clasty',
   markdown: {
     remarkPlugins: [
       remarkMermaidjs,
       [wikiLinkPlugin, {
         pathFormat: 'obsidian-short',
         wikiLinkClassName: 'internal-link',
-        hrefTemplate: (permalink) => `/obsidian-in-enterprise/${permalink}/`,
+        hrefTemplate: (permalink) => `/clasty/${permalink}/`,
       }],
     ],
   },
   integrations: [
     starlight({
-      title: 'Obsidian in Enterprise',
+      title: 'Clasty',
       description: 'Browser-based Obsidian with CRDT sync and enterprise access control',
       social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/cybersader/obsidian-in-enterprise' },
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/cybersader/clasty' },
       ],
       editLink: {
-        baseUrl: 'https://github.com/cybersader/obsidian-in-enterprise/edit/main/docs-site/',
+        baseUrl: 'https://github.com/cybersader/clasty/edit/main/docs-site/',
       },
       plugins: [
         // Import knowledge-base/ as an Obsidian vault

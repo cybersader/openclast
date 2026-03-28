@@ -12,8 +12,8 @@ description: Get the POC running locally in 5 minutes.
 ## Clone and Run
 
 ```bash
-git clone https://github.com/cybersader/obsidian-in-enterprise.git
-cd obsidian-in-enterprise
+git clone https://github.com/cybersader/clasty.git
+cd clasty
 
 # Copy environment file
 cp .env.example .env

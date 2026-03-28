@@ -1,4 +1,4 @@
-# Obsidian-in-Browser
+# Clasty (formerly Obsidian-in-Browser / Obsidian in Enterprise)
 
 ## Project Overview
 
