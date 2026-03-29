@@ -167,6 +167,25 @@ The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating fr
 High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
 ```
 
+#### Shape B Grid: All Shield Variations at Once
+
+Generate a comparison grid of shield variations in one shot. Paste this to quickly see all concepts side by side.
+
+```
+A 2x3 grid of six different volcanic obsidian shield logo concepts, each rendered as a polished 3D crystal gemstone on a pure solid white background. All shields share the same general form — a broad angular shape wider at the shoulders, tapering to a point at the bottom, made of faceted obsidian-black volcanic glass with glowing magma red-orange (#dc4a1a) cracks. Each variation differs in symmetry and crack pattern:
+
+Top-left: Symmetric shield with two thin crossing cracks. Clean, balanced.
+Top-center: Asymmetric shield (left shoulder higher, right edge has broken notch) with one bold wide lava river curving from upper-left to lower-right.
+Top-right: Shield with a single dramatic diagonal slash from upper-right to lower-left — one bold wide glowing crack, no others.
+Bottom-left: Shield with a Y-shaped lava system — trunk rising from bottom center, splitting into two branches toward the upper shoulders.
+Bottom-center: Shield splitting apart horizontally — a wide magma rift across the middle, top and bottom halves slightly separating.
+Bottom-right: Shield with an irregular organic crack network — multiple cracks of varying width radiating from a central point like shattered glass.
+
+All six: deep obsidian black crystal body, faceted gemstone surfaces with specular highlights, magma red-orange glowing cracks with ember orange edges. High detail. Pure solid white background. Digital art, gemstone illustration, polished and professional. Each shield fits within its own square cell in the grid.
+```
+
+---
+
 #### Shape B: Abstract Shield (Portrait, strong silhouette)
 
 A broad abstract shield form — not a literal heraldic shield, but an angular protective shape carved from volcanic glass. Wide shoulders, tapered base, crowned top. Immediately iconic, fits in a square.
