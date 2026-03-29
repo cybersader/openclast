@@ -147,9 +147,101 @@ Follows the same approach as the [obsidian-daily-notes-ng logo set](https://gith
 
 ---
 
+### Silhouette Exploration Prompts
+
+Before committing to treatments, explore different base shapes. Each prompt below generates a full-fidelity 3D crystal version of a different silhouette concept. Pick the one that feels most "logo-like" — sits cleanly in a square, has a clear orientation, and is recognizable at small sizes.
+
+**Reference style:** Generate these the same way the [obsidian-daily-notes-ng crystal calendar](https://github.com/cybersader/obsidian-daily-notes-ng/blob/main/assets/logo/logo-crystal-full.png) was generated — polished 3D crystal gemstone with faceted surfaces and internal glow.
+
+#### Shape A: Upright Crystal Point (Portrait, fits square)
+
+A tall crystal shard standing upright — like an amethyst point or quartz crystal. Clear portrait orientation, strong vertical axis, sits in a square frame.
+
+```
+A volcanic obsidian crystal point standing upright, rendered as a polished 3D crystal gemstone on a pure solid white background. The crystal is a tall, angular, faceted point — wider at the base and tapering to a sharp point at the top, like a quartz or amethyst crystal point. It has 5-6 major faceted faces visible from the front. The crystal is roughly symmetrical but with slight natural irregularity — one side slightly wider than the other, one facet slightly larger. The overall proportions are portrait orientation, roughly 3:4 width to height, fitting cleanly within a square frame.
+
+Two visible crack lines run through the crystal — one diagonal from mid-left to upper-right, one shorter crossing it lower down. The surface has faceted geometric planes catching light at different angles. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). The facets have subtle specular highlights and reflections — polished volcanic glass.
+
+The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within, as if molten lava is visible through fractures. Subtle ember orange (#ef6c35) highlights bloom along crack edges. The glow illuminates nearby facets with a warm red-orange tint. Deepest shadows have a slight purple-to-dark-red gradient.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
+```
+
+#### Shape B: Shield / Arrowhead (Portrait, strong silhouette)
+
+A broad shield or arrowhead shape — like a volcanic glass arrowhead tool. Immediately iconic, fits in a square, portrait orientation.
+
+```
+A volcanic obsidian arrowhead rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a broad, symmetrical arrowhead or shield — pointed at the top, widening to angular shoulders, then tapering slightly to a flat or slightly pointed base. Like a hand-knapped obsidian tool or spearpoint. It has 6-8 faceted crystal faces visible from the front, each at slightly different angles catching light differently. The overall proportions fit cleanly within a square frame, portrait orientation.
+
+Two visible crack lines run through the arrowhead — one from the tip down toward the lower-left, one shorter crossing it near the center. The surface has faceted geometric planes like a cut gemstone. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). Polished volcanic glass texture with subtle specular highlights.
+
+The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within. Subtle ember orange (#ef6c35) highlights along crack edges. The glow illuminates nearby facets warm red-orange. Deepest shadows have purple-to-dark-red gradient.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
+```
+
+#### Shape C: Hexagonal Gem (Square, balanced)
+
+A roughly hexagonal gem shape — like a cut stone viewed from above. Balanced, fits perfectly in a square, no ambiguous orientation.
+
+```
+A volcanic obsidian gemstone rendered as a polished 3D crystal, viewed from a slight angle, on a pure solid white background. The shape is a roughly hexagonal gem — six major sides, slightly irregular like natural volcanic glass but clearly hexagonal overall. It is slightly thicker on one side, giving it subtle 3D depth. The proportions are nearly square, fitting cleanly in a square frame with no ambiguous orientation. Think of a dark crystal hex tile or a cut obsidian cabochon with faceted edges.
+
+The top face has 4-5 triangular facets radiating from center like a brilliant-cut gem. The side faces are visible at the slight angle, showing the gem's depth. Two visible crack lines run through it — one across the top face diagonally, one down a side face. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). Polished volcanic glass with subtle specular highlights.
+
+The two crack lines glow with deep magma red-orange (#dc4a1a) light from within. Ember orange (#ef6c35) highlights along edges. Warm glow illuminates nearby facets. Deepest shadows purple-to-dark-red.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
+```
+
+#### Shape D: Broken Slab / Tablet (Portrait, structured irregularity)
+
+A broken stone tablet or slab — one edge clean/straight, the other broken/jagged. Combines structure with volcanic character. The "broken off from something larger" feel.
+
+```
+A volcanic obsidian slab rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a rectangular stone tablet that has been broken — the left edge and bottom edge are clean and straight (as if cut), but the right edge and top edge are jagged and fractured, with angular break points. This gives it structured irregularity — clearly a rectangle that was broken, not a random rock. Portrait orientation, roughly 3:4, fits cleanly in a square frame. The clean edges make it feel intentional; the broken edges make it feel volcanic.
+
+The surface has 6-8 faceted crystal planes across the front face, each at slightly different angles. Two visible crack lines run through the slab — one diagonal from the broken top-right corner down toward the clean bottom-left, one shorter crossing it. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). Polished volcanic glass texture.
+
+The two crack lines glow with deep magma red-orange (#dc4a1a) light emanating from within. Ember orange (#ef6c35) highlights along crack edges. Warm glow on nearby facets. Deepest shadows purple-to-dark-red.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
+```
+
+#### Shape E: Diamond / Rhombus (Square, geometric)
+
+A rotated square / diamond shape — maximum geometric clarity. Like a playing card diamond but with crystal facets.
+
+```
+A volcanic obsidian diamond shape rendered as a polished 3D crystal gemstone on a pure solid white background. The shape is a rhombus or rotated square — four main sides, standing on one corner like a diamond. The edges are not perfectly straight — they have subtle angular irregularity like natural crystal growth, with small notches and facet breaks along each edge. But the overall silhouette clearly reads as a diamond/rhombus rotated 45 degrees. Fits perfectly in a square frame.
+
+The front face has 6-8 triangular facets radiating from center, like a brilliant-cut diamond viewed from the front. Two visible crack lines run through it — one from upper-left corner toward lower-right, one shorter crossing near center. Some faces are deep obsidian black (#0c0c0c), others reflect dark stone gray (#1c1917) and charcoal (#292524). Polished volcanic glass with specular highlights.
+
+The two crack lines glow with deep magma red-orange (#dc4a1a) light from within. Ember orange (#ef6c35) along edges. Warm glow on nearby facets. Deepest shadows purple-to-dark-red.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional. Same style as an Obsidian plugin crystal logo.
+```
+
+#### Shape F: Volcanic Rock with Flat Face (Organic but grounded)
+
+An irregular volcanic rock chunk but with one prominent flat polished face — like a geode that's been cut open. The flat face shows the crystal interior. Organic shape but the flat face anchors it.
+
+```
+A chunk of volcanic obsidian rock that has been split open to reveal a polished crystal interior, rendered as a 3D illustration on a pure solid white background. The outer shape is an organic, roughly round volcanic rock — dark, rough-textured basalt exterior visible on the edges and back. But the front is a large flat polished face showing the obsidian crystal interior with 5-6 geometric facets catching light at different angles. Like a geode or thunder egg that's been cut and polished on one side.
+
+The proportions are roughly square, fitting in a square frame. The rough rock exterior is very dark stone (#0c0c0c, #1c1917). The polished interior face has crystal facets in dark stone grays (#1c1917, #292524, #44403c) with some reflective highlights.
+
+Two crack lines run across the polished face — one diagonal, one crossing it. They glow with deep magma red-orange (#dc4a1a) light from within. Ember orange (#ef6c35) along crack edges. The contrast between rough exterior and polished glowing interior is the visual hook.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration. Same style as an Obsidian plugin crystal logo.
+```
+
+---
+
 ### Treatment 1A: Full Fidelity 3D Crystal — White Background
 
-The flagship logo on white. Clean extraction, no glow bleed.
+The flagship logo on white. Clean extraction, no glow bleed. **Use whichever silhouette shape you chose from the exploration above — replace the shape description in this prompt accordingly.**
 
 ```
 A volcanic obsidian shard rendered as a polished 3D crystal gemstone, centered on a pure solid white background. The shard is an angular, asymmetric rock fragment with 6-7 faceted edges, roughly pentagonal but irregular like a piece of broken volcanic glass. It is slightly tilted clockwise about 10 degrees. The top edge is jagged and broken, the bottom edges are slightly smoother. Two visible crack lines run diagonally through it — one long crack from upper-left to lower-right, one shorter crack crossing it.
