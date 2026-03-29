@@ -184,6 +184,50 @@ Bottom-right: Shield with an irregular organic crack network — multiple cracks
 All six: deep obsidian black crystal body, faceted gemstone surfaces with specular highlights, magma red-orange glowing cracks with ember orange edges. High detail. Pure solid white background. Digital art, gemstone illustration, polished and professional. Each shield fits within its own square cell in the grid.
 ```
 
+#### Shape B Style Grid: Material and Color Variations
+
+Same shield silhouette, different visual treatments — compare materials, lava colors, depth, and refraction in one shot.
+
+```
+A 3x3 grid of nine volcanic obsidian shield logo concepts, all sharing the same broad angular shield silhouette — wider at the shoulders, tapering to a point at the bottom, slightly asymmetric, with one bold diagonal lava crack running from upper-left to lower-right. Each variation explores a different material, lava color, or visual style:
+
+Row 1 — Material variations:
+Top-left: Pure glossy obsidian — mirror-like black volcanic glass, extremely reflective and smooth. Sharp specular highlights. Lava crack glows deep red-orange (#dc4a1a). Premium, sleek.
+Top-center: Raw rough obsidian — matte black with visible conchoidal fracture texture (the rippled shell-like surface real obsidian has). Less polished, more geological. Lava crack glows same red-orange.
+Top-right: Translucent smoky obsidian — semi-transparent dark glass, you can slightly see through the thinner edges. Internal lava crack visible through the translucent body as a diffused glow. Ethereal, mysterious.
+
+Row 2 — Lava color variations:
+Middle-left: Deep crimson lava — the crack glows dark blood red (#991b1b) at the core with brighter red (#dc2626) at edges. Darker, more sinister, volcanic underworld feel.
+Middle-center: White-hot lava — the crack glows blinding yellow-white (#fef08a) at the center fading to orange (#f97316) at edges. Feels like looking into an active volcanic vent. Maximum intensity.
+Middle-right: Blue-violet lava — the crack glows electric blue (#3b82f6) at the core fading to violet (#7c3aed) at edges. Alien, otherworldly, tech-forward. Different energy entirely.
+
+Row 3 — Depth and style variations:
+Bottom-left: Deep carved channels — the lava cracks are deeply recessed into the stone like carved grooves or canyons. You're looking down into them. The magma sits deep below the surface. More 3D depth.
+Bottom-center: Surface veins — the lava sits flush with the surface like gold leaf inlay or kintsugi (Japanese golden repair). The cracks are filled level with the stone face, not recessed. Elegant, refined.
+Bottom-right: Explosive fracture — the crack is actively spreading, with small fragments lifting off the surface around it and tiny magma droplets suspended in air. Dynamic, energetic, caught mid-eruption.
+
+All nine: same shield silhouette, faceted obsidian crystal body, high detail, pure solid white background. Digital art, gemstone illustration, polished and professional. Each fits within its own square cell.
+```
+
+#### Shape B Combined Grid: Silhouette + Style Matrix
+
+The ultimate comparison — different crack patterns crossed with different visual styles. Pick your shape AND your style.
+
+```
+A 3x4 grid of twelve volcanic obsidian shield logo concepts on a pure solid white background. Three columns represent different crack patterns, four rows represent different visual styles. All share the same broad angular shield silhouette.
+
+Column 1: Single bold diagonal slash from upper-right to lower-left.
+Column 2: Y-shaped lava system — trunk from bottom splitting into two branches toward upper shoulders.
+Column 3: Asymmetric with one thick curving lava river from upper-left to lower-right plus one thin tributary.
+
+Row 1 — Glossy obsidian, red-orange lava (#dc4a1a): Mirror-black polished volcanic glass. Classic magma glow. Specular highlights.
+Row 2 — Rough matte obsidian, white-hot lava: Raw conchoidal fracture texture. Crack glows blinding yellow-white (#fef08a) fading to orange. Intense.
+Row 3 — Translucent smoky obsidian, deep crimson lava: Semi-transparent dark glass. Crack glows dark blood red (#991b1b) diffused through the body.
+Row 4 — Kintsugi style, amber-gold lava: Clean polished black stone with cracks filled flush like golden repair. Lava is warm amber-gold (#f59e0b). Elegant, refined, less volcanic more artisan.
+
+All twelve: faceted crystal gemstone rendering, high detail, pure solid white background. Digital art, polished and professional. Each fits within its own cell in the grid.
+```
+
 ---
 
 #### Shape B: Abstract Shield (Portrait, strong silhouette)
