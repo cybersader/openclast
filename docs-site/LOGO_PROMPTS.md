@@ -147,6 +147,132 @@ Follows the same approach as the [obsidian-daily-notes-ng logo set](https://gith
 
 ---
 
+### Split Stone Concepts (Iconic / Transferable)
+
+The goal: a shape where the **crack/gap IS the logo**. Two or more pieces of volcanic stone slightly separated with lava or negative space between them. Like the Obsidian logo — works as one flat color because the crack lines define the shape, not the color or texture. These should be iconic enough to work as: full 3D crystal, flat single color, mono outline, favicon at 16px.
+
+Reference: The Obsidian logo is just a rock with crack lines. At one color, the cracks become the design. That's the energy we want.
+
+#### Split S1: Two-Piece Vertical Split
+
+A stone split down the middle — two halves slightly separated with a lava channel between them. The gap is the logo.
+
+```
+A volcanic obsidian stone split vertically into two pieces, rendered as a polished 3D crystal on a pure solid white background. The stone is a compact, roughly pentagonal rock shape — like the Obsidian app logo but made of black volcanic glass. It has been cracked cleanly down the center into a left half and right half, and the two halves are slightly separated — a visible gap of about 5-8% of the total width runs between them from top to bottom. The gap is not perfectly straight — it follows an organic, jagged crack line, like a real stone fracture.
+
+Between the two halves, bright magma red-orange (#dc4a1a) glows in the gap, visible through the separation. The lava glow illuminates the inner faces of both halves. Each half has 3-4 faceted crystal faces in deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524) with subtle specular highlights. The outer edges of the stone are slightly rough and irregular. The overall silhouette fits cleanly in a square, portrait orientation.
+
+The key: the crack line shape between the two pieces should be distinctive and recognizable even as a single-color flat silhouette with no lava — just two dark shapes with a jagged gap between them.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Split S2: Three-Piece Radial Split
+
+Three pieces radiating from a center point — like a stone that shattered from the inside. The Y-shaped gap between the three pieces is the mark.
+
+```
+A volcanic obsidian stone broken into three pieces radiating from a central point, rendered as polished 3D crystal on a pure solid white background. The original stone was a compact, roughly circular/hexagonal rock shape. It has shattered into three roughly equal wedge-shaped pieces that have separated slightly outward from the center — each piece has moved about 5% outward, creating Y-shaped negative space between them.
+
+The three gaps between the pieces glow with bright magma red-orange (#dc4a1a) lava visible in the separation. The lava illuminates the inner fractured faces. Each of the three pieces has 2-3 faceted crystal faces in deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524). The outer edges are slightly rough and organic. The overall composition is roughly circular, fitting cleanly in a square frame.
+
+The key: the Y-shaped gap pattern should be the iconic element — recognizable as a single-color silhouette where three dark shapes sit around a Y-shaped channel. Think of it like a peace sign or Mercedes star but organic and jagged.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Split S3: Diagonal Fracture — Two Pieces Offset
+
+A stone cracked diagonally, the two pieces slightly offset like tectonic plates sliding past each other. Dynamic, implies motion.
+
+```
+A volcanic obsidian stone cracked diagonally and slightly offset, rendered as polished 3D crystal on a pure solid white background. The stone is a compact, roughly shield-shaped rock that has been fractured along a bold diagonal line from upper-left to lower-right. The upper-right piece has shifted slightly upward and right, the lower-left piece slightly downward and left — creating a visible diagonal gap between them with slight offset, like tectonic plates sliding past each other.
+
+The diagonal gap glows with bright magma red-orange (#dc4a1a) lava. The offset creates a sense of motion and energy. Each piece has 3-4 faceted crystal faces in deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524). The fracture line is bold and jagged, not ruler-straight. The overall silhouette fits in a square frame.
+
+The key: the diagonal slash with offset should read as a distinctive mark even in single-color flat. Two dark shapes, one above-right and one below-left, with a bold jagged diagonal gap between them.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Split S4: Crystal Point with Horizontal Rift
+
+A tall crystal point (like the reference image) with a wide horizontal crack across the middle — top and bottom pieces slightly separated. Combines the crystal point silhouette with the split concept.
+
+```
+A tall volcanic obsidian crystal point with a horizontal rift across its middle, rendered as polished 3D crystal on a pure solid white background. The crystal is a tall, angular, faceted point — wider at the base, tapering to a sharp point at the top, like a quartz crystal. A bold horizontal crack runs across the middle, and the top half has shifted very slightly upward, creating a visible horizontal gap. The two halves are still clearly one crystal but visibly separated.
+
+The horizontal rift glows intensely with magma red-orange (#dc4a1a) lava visible in the gap. The crystal body is deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524) with 5-6 faceted faces and subtle specular highlights. A secondary thinner crack branches upward from the rift on the left side. Portrait orientation, fits in a square.
+
+The key: the horizontal band of separation should be the iconic element. In single-color flat, it reads as a crystal point shape with a horizontal gap — instantly recognizable. Like a pause symbol embedded in a crystal.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Split S5: Obsidian-Style Rock with Bold Crack Lines (Most Like Obsidian Logo)
+
+Closest to the Obsidian logo approach — a compact stone shape where 2-3 bold crack lines define the entire identity. Not separated pieces, but the cracks are so prominent they ARE the design. Works perfectly as one flat color.
+
+```
+A compact volcanic obsidian stone with 2-3 bold prominent crack lines, rendered as polished 3D crystal on a pure solid white background. The stone is a compact, slightly irregular but roughly pentagonal or shield-like shape — similar in proportions to the Obsidian app logo. The shape sits cleanly in a square frame. The surface has 5-6 faceted crystal planes.
+
+Two to three bold crack lines define the stone's character — these are not thin hairlines but prominent, wide fissures that carve the surface into distinct sections. One main crack runs from upper-left to lower-right. A second branches off toward the lower-left. An optional third smaller crack runs near the top. The cracks are wide enough that they would remain visible and distinctive even at 32px as a single flat color.
+
+The cracks glow with magma red-orange (#dc4a1a) in this 3D version, but the shape is designed so that in a flat single-color version (like the purple Obsidian logo), the crack lines alone — rendered as negative space cuts through a solid fill — create the entire visual identity.
+
+Deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524) crystal body. Polished volcanic glass with specular highlights.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Split S6: Two Interlocking Pieces (Puzzle-like)
+
+Two pieces that fit together but are slightly separated — the crack between them has a distinctive interlocking shape, almost like puzzle pieces. The gap shape itself is the mark.
+
+```
+A volcanic obsidian stone broken into two interlocking pieces, rendered as polished 3D crystal on a pure solid white background. The stone is a compact shield-like shape that has been cracked into two pieces. The crack line is not straight — it has a distinctive zigzag or stepped pattern, almost like interlocking puzzle pieces or a lightning bolt shape. The two pieces are slightly separated, revealing the crack pattern as negative space with magma red-orange (#dc4a1a) glowing between them.
+
+Each piece has 3-4 faceted crystal faces in deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524). The interlocking crack pattern is bold and geometric enough to be recognizable at small sizes. The overall silhouette is compact and fits in a square.
+
+The key: the zigzag/stepped gap pattern between the two pieces should be instantly recognizable — it's the brand mark. In flat single-color, you see two dark shapes with a distinctive stepped gap between them. The gap shape itself is as important as the stone shape.
+
+High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Split Grid: All Split Concepts at Once
+
+```
+A 2x3 grid of six volcanic obsidian stone logo concepts on a pure solid white background. All are compact dark stone shapes made of polished obsidian crystal with magma red-orange (#dc4a1a) glowing in the cracks/gaps. Each concept explores a different way to split the stone:
+
+Top-left: Stone split vertically into two halves with a jagged gap between them. Lava glows in the vertical gap.
+Top-center: Stone shattered into three pieces radiating from center, creating Y-shaped negative space with lava between the three wedges.
+Top-right: Stone cracked diagonally, two pieces slightly offset like sliding tectonic plates, diagonal lava gap between them.
+Bottom-left: Tall crystal point with horizontal rift across the middle — top and bottom halves slightly separated with lava band.
+Bottom-center: Compact stone with 2-3 bold wide crack lines (not separated) — like the Obsidian app logo style. Cracks are prominent enough to define the shape at any size.
+Bottom-right: Stone broken into two interlocking pieces with a zigzag/stepped crack pattern — slightly separated with lava in the gap.
+
+All six: deep obsidian black crystal with faceted surfaces, magma glow in cracks, high detail. Each fits in its own square cell. Digital art, gemstone illustration, polished and professional.
+```
+
+#### Split Style Grid: One Concept in Multiple Treatments
+
+Once you pick a favorite split concept, generate it across treatments to verify it works at all fidelities.
+
+```
+A 2x3 grid showing the same volcanic obsidian split-stone logo in six different rendering styles on a pure solid white background. The stone is [DESCRIBE YOUR CHOSEN SPLIT CONCEPT HERE]. Each cell shows a different treatment:
+
+Top-left: Full 3D polished crystal with magma red-orange glow in the gap. Rich, detailed, specular highlights.
+Top-center: Flat single color — entire shape in solid dark gray (#1c1917), the crack/gap is white negative space. No lava, no color, no gradient. Tests if the shape works as a single-color mark.
+Top-right: Flat two-tone — dark stone body with the crack/gap filled magma red-orange (#dc4a1a). No 3D, no gradients, just two flat colors.
+Bottom-left: White line art on dark background — just the outlines of both pieces and the gap between them in thin white lines on black.
+Bottom-center: Tiny favicon test — the same flat single-color version but rendered at approximately 32x32px equivalent size. Tests recognition at icon scale.
+Bottom-right: Kintsugi style — polished black stone with the crack filled flush with gold (#f59e0b), like Japanese golden repair pottery. Elegant, refined alternative.
+
+All six in one grid. High detail where applicable. Digital art, logo design comparison sheet.
+```
+
+---
+
 ### Silhouette Exploration Prompts
 
 Before committing to treatments, explore different base shapes. Each prompt below generates a full-fidelity 3D crystal version of a different silhouette concept. Pick the one that feels most "logo-like" — sits cleanly in a square, has a clear orientation, and is recognizable at small sizes.
