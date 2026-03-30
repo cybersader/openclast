@@ -239,6 +239,39 @@ The key: the zigzag/stepped gap pattern between the two pieces should be instant
 High detail, 1024px, no text. Pure solid white background. Single centered object. Digital art, gemstone illustration, polished and professional.
 ```
 
+#### Split S7: Clean Geometric Crystal (Obsidian Logo Energy)
+
+Refinement of the crystal point concept — stockier, cleaner, fewer facets, geometric cracks. Maximum favicon readability.
+
+**In-session follow-up** (if iterating from a crystal point generation):
+```
+Same crystal but make it cleaner and more geometric like the Obsidian app logo — flat clean lines, not painterly or irregular. Straighten the crack lines so they feel like clean crystal fractures, not organic veins. Make the overall shape wider and stockier — more square ratio, less tall and thin. Use fewer, larger facets so the shape reads clearly at small sizes like 32px. Remove the small shard at the bottom — just one strong crystal form. Keep the upward-sweeping diagonal crack but make it a clean geometric line. The goal is an icon that works as a single flat color silhouette with crack lines as negative space, like the Obsidian logo.
+```
+
+**Standalone — clean crystal point, square ratio:**
+```
+A single volcanic obsidian crystal on a pure solid white background. The crystal is a compact, stocky, faceted point — wider and more square in proportion than a typical tall thin crystal. Think of it as roughly fitting in a square frame, maybe 4:5 ratio at most. It has a pointed top and a flat wide base, with 5-6 large clean geometric facets. The style is clean and iconic like the Obsidian app logo — simple geometric shapes, clean straight edges between facets, not painterly or organic.
+
+One bold diagonal crack sweeps upward from the lower-left to the upper-right across the crystal face — a clean geometric fracture line, straight segments with sharp angle changes like a crystal naturally cleaves. The crack is wide and prominent. A second shorter crack branches off it near the center toward the lower-right. The cracks glow with magma red-orange (#dc4a1a) light from within, with ember orange (#ef6c35) at the edges.
+
+The crystal body uses only 3-4 large flat facets in deep obsidian black (#0c0c0c) and dark stone (#1c1917, #292524). Each facet is a clean flat plane with sharp edges between them — no gradients within facets, no painterly texture. Subtle specular highlight on one facet only. The overall shape should be simple enough that as a single flat color with the cracks as negative space cuts, it would be instantly recognizable at 32px — like the Obsidian app logo is.
+
+No small fragments, no debris, no extra pieces — just one clean crystal form. High detail but geometric simplicity. No text. Pure solid white background. Single centered object. Icon design, logo illustration, clean vector aesthetic.
+```
+
+**Standalone — maximum simplicity, flat icon:**
+```
+A simple geometric obsidian crystal icon on a pure solid white background. The shape is a compact faceted stone — roughly pentagonal or shield-shaped, wider than it is tall, fitting cleanly in a square frame. It has exactly 5-6 large flat facets defined by clean straight lines, like the Obsidian app logo's approach to depicting a stone. No organic irregularity — every edge is a clean straight line with sharp angles.
+
+Two bold crack lines cut across the stone: one main diagonal sweeping from lower-left to upper-right, one shorter branch angling downward from the center. The crack lines are clean straight segments with sharp angle changes — geometric, not wavy. In this version, the cracks glow magma red-orange (#dc4a1a).
+
+The body is flat obsidian black (#0c0c0c) with one facet slightly lighter (#1c1917) to suggest dimension. Minimal detail. The entire design should work perfectly as a single flat color with cracks as white negative space — that's the test. If you removed all color and just had a dark shape with two white lines through it, it should still be a recognizable, iconic mark.
+
+No texture, no paint strokes, no atmospheric glow bleeding beyond the shape, no debris. Clean, sharp, geometric, iconic. No text. Pure solid white background. Vector icon style, logo design, minimal.
+```
+
+---
+
 #### Split Grid: All Split Concepts at Once
 
 ```
