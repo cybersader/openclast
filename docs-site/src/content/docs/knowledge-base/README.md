@@ -46,6 +46,7 @@ HOT                                                                        COLD
 * `ideas.md` — Active ideas and future possibilities
 * `2026-02-14-kasm-mount-orchestration-decisions.md` — Kasm integration patterns, compound rules analysis, Storage Mappings vs custom orchestrator
 * `2026-03-28-multi-instance-sync-testing.md` — Multi-instance testing methods (Docker, Tailscale, shared filesystem)
+* `docs-site-theme-status.md` — Starlight theme status, blocker details, and custom CSS fallback plan
 
 ### 02-learnings/ (Distilled)
 

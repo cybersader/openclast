@@ -1,6 +1,6 @@
-# Clasty Logo Assets
+# OpenClast Logo Assets
 
-Volcanic obsidian shard — the visual identity of Clasty (derived from "pyroclast").
+Volcanic obsidian shard — the visual identity of OpenClast (derived from "pyroclast"). The mascot character is named **Clasty**.
 
 ## Treatment System
 

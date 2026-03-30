@@ -1,8 +1,8 @@
-# Clasty
+# OpenClast
 
 > Browser-based Obsidian with CRDT sync and enterprise access control. Stream Obsidian via VNC, collaborate in real-time with Yjs, and control vault access at the folder level.
 
-**[Documentation](https://cybersader.github.io/clasty)** · [Architecture](knowledge-base/03-reference/ARCHITECTURE_COMPONENTS.md) · [Decision Log](knowledge-base/03-reference/decision-log.md) · [Contributing](docs-site/src/content/docs/contributing/how-to-contribute.md)
+**[Documentation](https://cybersader.github.io/openclast)** · [Architecture](knowledge-base/03-reference/ARCHITECTURE_COMPONENTS.md) · [Decision Log](knowledge-base/03-reference/decision-log.md) · [Contributing](docs-site/src/content/docs/contributing/how-to-contribute.md)
 
 ## The Problem
 
@@ -29,8 +29,8 @@ Mount Orchestrator: JWT claims → per-user bind mounts → composite vault
 ## Quick Start
 
 ```bash
-git clone https://github.com/cybersader/clasty.git
-cd clasty
+git clone https://github.com/cybersader/openclast.git
+cd openclast
 cp .env.example .env
 docker-compose up -d
 # Obsidian at https://localhost:3001
@@ -58,7 +58,7 @@ docker-compose -f docker-compose.test.yml up -d
 
 ## Documentation
 
-The [documentation site](https://cybersader.github.io/clasty) is built from the knowledge base using Astro Starlight with the `starlight-obsidian` plugin. All content lives in this repo — no Obsidian installation needed to contribute.
+The [documentation site](https://cybersader.github.io/openclast) is built from the knowledge base using Astro Starlight with the `starlight-obsidian` plugin. All content lives in this repo — no Obsidian installation needed to contribute.
 
 The knowledge base uses a **temperature gradient** system:
 

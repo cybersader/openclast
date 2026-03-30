@@ -11,13 +11,13 @@ This project is **not yet open to code or documentation contributions** — it's
 
 ### Discussions (Open)
 
-- **Questions and ideas**: [Open a discussion](https://github.com/cybersader/clasty/discussions) on GitHub
-- **Architecture feedback**: Review the [Architecture Components](/clasty/knowledge-base/03-reference/architecture-components/) page and share your thoughts
+- **Questions and ideas**: [Open a discussion](https://github.com/cybersader/openclast/discussions) on GitHub
+- **Architecture feedback**: Review the [Architecture Components](/openclast/knowledge-base/03-reference/architecture-components/) page and share your thoughts
 - **Use case proposals**: Describe how you'd use this in your organization
 
 ### Issues (Open)
 
-- **Bug reports**: [Open an issue](https://github.com/cybersader/clasty/issues/new)
+- **Bug reports**: [Open an issue](https://github.com/cybersader/openclast/issues/new)
 - **Feature requests**: Open an issue with the `enhancement` label
 
 ## Future Contributions

@@ -23,7 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          path-to-document: 'https://github.com/cybersader/clasty/blob/main/CLA.md'
+          path-to-document: 'https://github.com/cybersader/openclast/blob/main/CLA.md'
           branch: 'main'
           allowlist: cybersader,bot*
           remote-organization-name: false
@@ -31,7 +31,7 @@ jobs:
           create-file-commit-message: 'chore: create CLA signature file'
           signed-commit-message: 'chore: $contributorName signed the CLA'
           custom-notsigned-prcomment: |
-            Thank you for your contribution! Before we can merge this, you need to sign our [Contributor License Agreement](https://github.com/cybersader/clasty/blob/main/CLA.md).
+            Thank you for your contribution! Before we can merge this, you need to sign our [Contributor License Agreement](https://github.com/cybersader/openclast/blob/main/CLA.md).
 
             To sign, please comment below with:
 

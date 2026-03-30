@@ -15,7 +15,7 @@ related:
 
 ## Current State
 
-The Clasty docs site (`docs-site/`) uses **Starlight's default theme**. The intended theme stack is:
+The OpenClast docs site (`docs-site/`) uses **Starlight's default theme**. The intended theme stack is:
 
 | Plugin | Purpose | Status |
 |--------|---------|--------|
@@ -74,7 +74,7 @@ If the upstream fix takes too long, we can approximate the Obsidian Publish aest
 /* docs-site/src/styles/obsidian-theme.css */
 :root {
   --sl-color-accent-low: #1a1a2e;
-  --sl-color-accent: #e85d26;      /* magma orange — matches Clasty brand */
+  --sl-color-accent: #e85d26;      /* magma orange — matches OpenClast brand */
   --sl-color-accent-high: #f59e0b;
   --sl-color-gray-1: #e8e6e3;
   --sl-color-gray-5: #1a1a2e;
@@ -90,13 +90,13 @@ starlight({
 })
 ```
 
-This gives us the Clasty color palette without waiting on the theme plugin.
+This gives us the OpenClast color palette without waiting on the theme plugin.
 
 ## Decision
 
 **DECISION-005: Docs Theme Approach — ACCEPTED**
-- **Choice:** Custom CSS theme with Clasty brand palette (Option B)
+- **Choice:** Custom CSS theme with OpenClast brand palette (Option B)
 - **Rationale:** Zero dependency risk, self-owned, resilient to upstream breakage. Brand consistency now > graph view later.
-- **Implementation:** `docs-site/src/styles/clasty-theme.css` — overrides Starlight CSS variables for both dark and light mode
+- **Implementation:** `docs-site/src/styles/openclast-theme.css` — overrides Starlight CSS variables for both dark and light mode
 - **Graph view:** Kept as future goal (`starlight-site-graph` stays in package.json but not wired into config)
 - **Theme plugin:** `starlight-theme-obsidian` removed from dependencies

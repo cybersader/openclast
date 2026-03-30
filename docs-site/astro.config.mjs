@@ -5,28 +5,28 @@ import remarkMermaidjs from 'remark-mermaidjs';
 import wikiLinkPlugin from '@flowershow/remark-wiki-link';
 
 export default defineConfig({
-  site: 'https://cybersader.github.io/clasty',
-  base: '/clasty',
+  site: 'https://cybersader.github.io/openclast',
+  base: '/openclast',
   markdown: {
     remarkPlugins: [
       remarkMermaidjs,
       [wikiLinkPlugin, {
         pathFormat: 'obsidian-short',
         wikiLinkClassName: 'internal-link',
-        hrefTemplate: (permalink) => `/clasty/${permalink}/`,
+        hrefTemplate: (permalink) => `/openclast/${permalink}/`,
       }],
     ],
   },
   integrations: [
     starlight({
-      title: 'Clasty',
+      title: 'OpenClast',
       description: 'Browser-based Obsidian with CRDT sync and enterprise access control',
-      customCss: ['./src/styles/clasty-theme.css'],
+      customCss: ['./src/styles/openclast-theme.css'],
       social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/cybersader/clasty' },
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/cybersader/openclast' },
       ],
       editLink: {
-        baseUrl: 'https://github.com/cybersader/clasty/edit/main/docs-site/',
+        baseUrl: 'https://github.com/cybersader/openclast/edit/main/docs-site/',
       },
       plugins: [
         // Import knowledge-base/ as an Obsidian vault

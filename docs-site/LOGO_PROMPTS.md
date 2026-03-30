@@ -1,8 +1,8 @@
-# Clasty Logo Generation Prompts
+# OpenClast Logo Generation Prompts
 
 Brand identity derived from "pyroclast" — a fragment of volcanic rock ejected from an eruption. The visual language is: obsidian-black angular shard with magma-orange glowing cracks.
 
-## Color Palette (matches clasty-theme.css)
+## Color Palette (matches openclast-theme.css)
 
 | Role | Color | Hex | Usage |
 |------|-------|-----|-------|
@@ -44,17 +44,17 @@ A single angular geometric shard shape — irregular pentagon or hexagonal fragm
 
 ### Horizontal Lockup
 ```
-On the left, a small angular obsidian-black shard with magma-orange crack lines. To the right, the word "clasty" in a clean, modern, lowercase sans-serif font (similar to Inter, Geist, or DM Sans) in white. Dark charcoal background (#0f0f17). The shard icon is the same height as the text. Minimal spacing. Software product logo style, similar to Vercel, Linear, or Notion branding.
+On the left, a small angular obsidian-black shard with magma-orange crack lines. To the right, the word "openclast" in a clean, modern, lowercase sans-serif font (similar to Inter, Geist, or DM Sans) in white. Dark charcoal background (#0f0f17). The shard icon is the same height as the text. Minimal spacing. Software product logo style, similar to Vercel, Linear, or Notion branding.
 ```
 
 ### Horizontal Lockup (Light Background)
 ```
-On the left, a small angular obsidian-black shard with magma-orange crack lines. To the right, the word "clasty" in a clean, modern, lowercase sans-serif font in obsidian black (#1a1a2e). White background. The shard icon is the same height as the text. Software product logo style.
+On the left, a small angular obsidian-black shard with magma-orange crack lines. To the right, the word "openclast" in a clean, modern, lowercase sans-serif font in obsidian black (#1a1a2e). White background. The shard icon is the same height as the text. Software product logo style.
 ```
 
 ### Stacked Lockup (Icon Above Text)
 ```
-Top: an angular obsidian-black shard with magma-orange crack lines, centered. Below it: the word "clasty" in clean lowercase sans-serif, white text. Dark background (#0f0f17). Vertically centered composition. Software product logo, suitable for splash screens, loading states, or square social media avatars.
+Top: an angular obsidian-black shard with magma-orange crack lines, centered. Below it: the word "openclast" in clean lowercase sans-serif, white text. Dark background (#0f0f17). Vertically centered composition. Software product logo, suitable for splash screens, loading states, or square social media avatars.
 ```
 
 ---
@@ -120,12 +120,12 @@ A horizontal composition: the main shard logo on the left, with a trail of small
 
 ### Open Graph Image (1200x630)
 ```
-Dark charcoal background (#0f0f17). Left side: the angular obsidian shard logo with magma-orange cracks, large. Right side: "clasty" in large white lowercase sans-serif text with the tagline "Enterprise Obsidian, in the browser" in smaller gray text below. Subtle ember particles scattered across the composition. Clean, modern SaaS marketing style.
+Dark charcoal background (#0f0f17). Left side: the angular obsidian shard logo with magma-orange cracks, large. Right side: "openclast" in large white lowercase sans-serif text with the tagline "Enterprise Obsidian, in the browser" in smaller gray text below. Subtle ember particles scattered across the composition. Clean, modern SaaS marketing style.
 ```
 
 ### GitHub Social Preview (1280x640)
 ```
-Dark charcoal background. Centered: the shard logo mark above the word "clasty" in white. Below in smaller muted text: "CRDT sync · RBAC · Browser-based Obsidian". Subtle geometric grid or topographic lines in very faint dark gray in the background. Professional open-source project feel.
+Dark charcoal background. Centered: the shard logo mark above the word "openclast" in white. Below in smaller muted text: "CRDT sync · RBAC · Browser-based Obsidian". Subtle geometric grid or topographic lines in very faint dark gray in the background. Professional open-source project feel.
 ```
 
 ---

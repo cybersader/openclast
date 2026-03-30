@@ -12,8 +12,8 @@ description: Get the POC running locally in 5 minutes.
 ## Clone and Run
 
 ```bash
-git clone https://github.com/cybersader/clasty.git
-cd clasty
+git clone https://github.com/cybersader/openclast.git
+cd openclast
 
 # Copy environment file
 cp .env.example .env
