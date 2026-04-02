@@ -316,6 +316,42 @@ Bottom-right: Diamond — a point at both top and bottom, fragments at left and 
 All six on solid black. Clean separation between fragments in each concept. High detail, polished digital art, gemstone illustration style. Each concept in its own cell.
 ```
 
+#### Core Grid — In-Session: Fragment Style and Lava Variations
+
+Same pendant concept, but vary how the fragments look and how the lava behaves.
+
+```
+Generate a 2x3 grid of six variations of this same concept — obsidian crystal fragments around a glowing lava core on solid black background. Same overall pendant silhouette as before. Each cell changes the fragment style or lava treatment:
+
+Top-left: Fewer, larger, chunkier fragments — think big blocky slabs of obsidian with flat faces and sharp angles. Less refined, more raw and heavy. Same lava core.
+Top-center: Thin sharp splinter-like fragments — elongated and needle-like, radiating outward like a starburst or shattered glass. More dynamic and aggressive energy. Same lava core.
+Top-right: Rounded/tumbled fragments — the crystal pieces have softer, more rounded edges like river rocks or tumbled obsidian. Less jagged, more organic and approachable. Same lava core.
+
+Bottom-left: Lava as thin veins only — the fragments are close together with only thin hairline gaps of lava between them. More stone visible, less fire. Subtle, refined.
+Bottom-center: Massive lava core — the fragments are pushed far apart with a huge bright lava center dominating. More fire than stone. Bold, intense.
+Bottom-right: Cool blue-white lava instead of orange — same fragment arrangement as the original but the core glows electric blue (#3b82f6) fading to white at the center instead of orange. Completely different mood — alien, tech, cold volcanic.
+
+All six: same solid black background, same quality and detail. Each in its own cell.
+```
+
+#### Core Grid — Fresh Session: Fragment Count and Arrangement Patterns
+
+Explores fundamentally different ways to arrange the fragments — not just proportions but structural patterns.
+
+```
+A 2x3 grid of six obsidian crystal logo concepts on a pure solid black background. Each concept shows dark angular obsidian crystal fragments arranged around a bright glowing magma lava core — like a volcanic stone that shattered from the inside. The crystal fragments have clean faceted surfaces in deep black and dark gray. The lava glows bright red-orange at edges and yellow-white at the hottest center. Each cell explores a fundamentally different structural arrangement:
+
+Top-left: Spiral arrangement — 5-6 fragments arranged in a subtle spiral pattern around the core, as if the explosion had rotational energy. One fragment at top points upward, others sweep clockwise around the center. Dynamic, implies motion.
+Top-center: Vertical stack — fragments arranged in a tall column with lava gaps between them, like a cracked obsidian tower or totem. Narrow and tall but with clear horizontal lava bands between each piece. 4 pieces stacked.
+Top-right: Concentric rings — an inner ring of 3 small tight fragments close to the core, and an outer ring of 4-5 larger fragments further out. Two layers of shattered stone. More complex but very structured.
+
+Bottom-left: One large piece + small satellites — one dominant large crystal fragment (60% of the shape) with 3-4 much smaller fragments orbiting around it, separated by lava. Asymmetric, the big piece IS the logo with small accent pieces.
+Bottom-center: Interlocking but separated — fragments that clearly fit back together like puzzle pieces, but have been pulled slightly apart with lava in the seams. You can see how they would reassemble. The CRDT merge metaphor.
+Bottom-right: Floating debris field — the fragments are spread further apart with lots of lava space between them, plus tiny rock particles and ember dots floating in the gaps. More atmospheric, more explosive energy. Less compact logo, more illustration.
+
+All six on solid black. High detail, polished digital art, gemstone illustration style. Each in its own cell.
+```
+
 #### Core Grid (Original 3x3): Proportion and Fragment Variations
 
 Generate all variations at once to compare.
