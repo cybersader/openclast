@@ -280,7 +280,43 @@ The core idea: obsidian crystal fragments radiating outward from a glowing magma
 
 Reference: The pendant-shaped version (tall point at top, wider base, 4-5 crystal shards around a bright lava center) is the starting point. These variations explore different proportions and fragment arrangements that would transfer well into flat/mono treatments.
 
-#### Core Grid: Proportion and Fragment Variations
+#### Core Grid — In-Session Follow-Up (from existing pendant generation)
+
+Paste this into the session that generated the pendant image you liked.
+
+```
+Generate a 2x3 grid of six variations of this same concept — obsidian crystal fragments around a glowing lava core on solid black background. Same art style, same level of detail, same type of crystal fragments and lava glow. Each cell explores a different proportion or fragment arrangement:
+
+Top-left: The original pendant shape but wider — stretch the side fragments outward so it's closer to a square ratio, roughly 4:5. Keep the top point.
+Top-center: Only 3 large crystal fragments — one pointing up, one lower-left, one lower-right. Bigger pieces, more lava visible between them. Same pendant silhouette.
+Top-right: 4 large fragments in a compact square arrangement — top, bottom, left, right — with the lava core glowing in the cross-shaped gaps between them. Overall square silhouette.
+
+Bottom-left: Asymmetric pendant — same concept but the left fragment is noticeably larger than the right, and the top point leans slightly. Gives it personality.
+Bottom-center: Wide crest/shield shape — fragments spread horizontally wider than tall, roughly 5:4 ratio. Like a heraldic crest with lava at its heart.
+Bottom-right: Diamond orientation — the pendant rotated so a point is at top AND bottom, with fragments at left and right. Lava core at center. Fits in a square.
+
+All six: same black background, same crystal and lava style as the previous image. Each variation in its own cell.
+```
+
+#### Core Grid — Fresh Session Standalone
+
+No prior context needed. Generates the same 6 variations from scratch.
+
+```
+A 2x3 grid of six obsidian crystal logo concepts on a pure solid black background. Each concept shows angular obsidian-black crystal fragments arranged around a bright glowing magma lava core — like a volcanic stone that exploded from the inside, with dark crystal shards radiating outward from a molten center. The crystal fragments have clean faceted geometric surfaces in deep black and dark gray with subtle specular highlights. The lava between and behind the fragments glows bright red-orange at the edges and intense yellow-white at the hottest center point. Orange edge-glow highlights the inner faces of each fragment. Each variation explores a different overall proportion and fragment arrangement:
+
+Top-left: Pendant shape — pointed crystal shard at top, 4-5 fragments below and to the sides, overall taller than wide but close to square, roughly 4:5 ratio. The classic version.
+Top-center: Three-fragment minimal — only 3 large crystal pieces, one up, one lower-left, one lower-right. Bigger fragments with more lava visible between them. Clean, simple, iconic.
+Top-right: Four fragments in a compact square — pieces at top, bottom, left, right with lava glowing in a cross-shaped gap between them. Overall square silhouette.
+
+Bottom-left: Asymmetric pendant — same as top-left but the left fragment is noticeably larger than the right, top point leans slightly right. Character through imbalance, not generic.
+Bottom-center: Wide crest — fragments spread horizontally wider than tall, roughly 5:4 ratio. Wing-like side fragments, modest top point. Broad, heraldic energy.
+Bottom-right: Diamond — a point at both top and bottom, fragments at left and right. Lava core at center. Rotated square silhouette.
+
+All six on solid black. Clean separation between fragments in each concept. High detail, polished digital art, gemstone illustration style. Each concept in its own cell.
+```
+
+#### Core Grid (Original 3x3): Proportion and Fragment Variations
 
 Generate all variations at once to compare.
 
